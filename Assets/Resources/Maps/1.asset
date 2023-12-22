@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6f644bd6357fcd42b9f631938bfe4a1, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  MapData:
+  - IslandPrefab: {fileID: -7324004109122902682, guid: 3fbe0f65f6e695e40b45f5a336ac575d, type: 3}
+    Position: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0}
+  - IslandPrefab: {fileID: 3004887496869806135, guid: 4c8e36936dd2fde449b803368766b5bf, type: 3}
+    Position: {x: 0, y: 0, z: 4}
+    Rotation: {x: 0, y: 90, z: 0}
+  - IslandPrefab: {fileID: 3829572763121794842, guid: d972e788d196bb0469f972a8e9566074, type: 3}
+    Position: {x: 0, y: 0, z: 9}
+    Rotation: {x: 0, y: 0, z: 0}
+  - IslandPrefab: {fileID: 6958382630006262565, guid: 41de4ec105428644d9defa82a0cc6f26, type: 3}
+    Position: {x: 0, y: 0, z: 14}
+    Rotation: {x: 0, y: 0, z: 0}
+  - IslandPrefab: {fileID: 6958382630006262565, guid: 41de4ec105428644d9defa82a0cc6f26, type: 3}
+    Position: {x: 5, y: 0, z: 14}
+    Rotation: {x: 0, y: 90, z: 0}
+  - IslandPrefab: {fileID: 6958382630006262565, guid: 41de4ec105428644d9defa82a0cc6f26, type: 3}
+    Position: {x: 5, y: 0, z: 9}
+    Rotation: {x: 0, y: -90, z: 0}
+  - IslandPrefab: {fileID: -5172822838571460911, guid: dcbe086fa456a39419e05e3a4d7af3e2, type: 3}
+    Position: {x: 10, y: 0, z: 9}
+    Rotation: {x: 0, y: 180, z: 0}
+  - IslandPrefab: {fileID: -3237567269152015481, guid: d27cacc40ab3af54fb107425c97a6598, type: 3}
+    Position: {x: 10, y: 0, z: 14}
+    Rotation: {x: 0, y: 90, z: 0}
+  - IslandPrefab: {fileID: 302137171374852411, guid: b3c063caa71370c4f9e54d80aa309527, type: 3}
+    Position: {x: 10, y: 0, z: 19}
+    Rotation: {x: 0, y: 0, z: 0}
+  - IslandPrefab: {fileID: -3237567269152015481, guid: d27cacc40ab3af54fb107425c97a6598, type: 3}
+    Position: {x: 5, y: 0, z: 19}
+    Rotation: {x: 0, y: 0, z: 0}
+  - IslandPrefab: {fileID: 8534128929557044715, guid: f84f6617b49b1b748b3a203750eea6fc, type: 3}
+    Position: {x: 0, y: 0, z: 19}
+    Rotation: {x: 0, y: 0, z: 0}
+  - IslandPrefab: {fileID: 8534128929557044715, guid: f84f6617b49b1b748b3a203750eea6fc, type: 3}
+    Position: {x: 0, y: 0, z: 24}
+    Rotation: {x: 0, y: 90, z: 0}
+  - IslandPrefab: {fileID: -3237567269152015481, guid: d27cacc40ab3af54fb107425c97a6598, type: 3}
+    Position: {x: 5, y: 0, z: 24}
+    Rotation: {x: 0, y: 180, z: 0}
+  - IslandPrefab: {fileID: 8534128929557044715, guid: f84f6617b49b1b748b3a203750eea6fc, type: 3}
+    Position: {x: 10, y: 0, z: 24}
+    Rotation: {x: 0, y: 180, z: 0}
+  - IslandPrefab: {fileID: -3125233215398513666, guid: 153838d8646f5014ea9033be0aa66899, type: 3}
+    Position: {x: 15, y: 0, z: 19}
+    Rotation: {x: 0, y: -90, z: 0}
+  - IslandPrefab: {fileID: 3829572763121794842, guid: d972e788d196bb0469f972a8e9566074, type: 3}
+    Position: {x: 16, y: 0, z: 24}
+    Rotation: {x: 0, y: 0, z: 0}
+  - IslandPrefab: {fileID: 3829572763121794842, guid: d972e788d196bb0469f972a8e9566074, type: 3}
+    Position: {x: 16, y: 0, z: 29}
+    Rotation: {x: 0, y: 0, z: 0}
+  - IslandPrefab: {fileID: 3829572763121794842, guid: d972e788d196bb0469f972a8e9566074, type: 3}
+    Position: {x: 16, y: 0, z: 34}
+    Rotation: {x: 0, y: 0, z: 0}
+  - IslandPrefab: {fileID: 3829572763121794842, guid: d972e788d196bb0469f972a8e9566074, type: 3}
+    Position: {x: 16, y: 0, z: 39}
+    Rotation: {x: 0, y: 0, z: 0}
+  - IslandPrefab: {fileID: 3829572763121794842, guid: d972e788d196bb0469f972a8e9566074, type: 3}
+    Position: {x: 16, y: 0, z: 44}
+    Rotation: {x: 0, y: 0, z: 0}
+  - IslandPrefab: {fileID: 3829572763121794842, guid: d972e788d196bb0469f972a8e9566074, type: 3}
+    Position: {x: 16, y: 0, z: 49}
+    Rotation: {x: 0, y: 0, z: 0}
+  - IslandPrefab: {fileID: 4815161360571399824, guid: ece387c6ee75c8c4ea878a83caa60297, type: 3}
+    Position: {x: 16, y: 0, z: 54}
+    Rotation: {x: 0, y: 180, z: 0}
